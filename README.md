@@ -1,1 +1,4 @@
-# technical-assignment-week-5-ETANA-NABIL-ZAIDAN
+- gambar
+
+
+![Img 1](1.png)
