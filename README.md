@@ -1,4 +1,4 @@
 - gambar
 
 
-![Img 1](1.png)
+![Img 1](2.png)
